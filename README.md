@@ -31,3 +31,6 @@ docker exec -i -t [コンテナ名] /bin/bash
 redis-cli
 keys *
 ```
+
+
+https://www.wakuwakubank.com/posts/738-nodejs-express-session/
